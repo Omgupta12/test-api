@@ -1,0 +1,23 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "server":"json-server --watch db.json --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omgupta12/test-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omgupta12/test-api/issues"
+  },
+  "homepage": "https://github.com/Omgupta12/test-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
